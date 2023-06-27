@@ -45,5 +45,8 @@ The dashboard will open in a new window. You can close the dashboard by clicking
 ## Screenshots
 
 Here are some screenshots of the dashboard:
+![dashboard](https://github.com/jazzpujols34/a-data-visualization-dashboard-in-python-and-matplotlib/assets/62235508/8e72297c-e9e9-4575-8894-918b611e9981)
+
+
 
 
