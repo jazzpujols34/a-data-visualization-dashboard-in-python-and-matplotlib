@@ -7,13 +7,13 @@ This project is a simple data visualization dashboard built with Python, Tkinter
 1. Clone this repository:
 
 ```
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/jazzpujols34/a-data-visualization-dashboard-in-python-and-matplotlib.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd yourrepository
+cd a-data-visualization-dashboard-in-python-and-matplotlib
 ```
 
 3. Install the required Python packages:
